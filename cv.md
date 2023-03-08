@@ -30,9 +30,10 @@ Warsaw, Poland
 ---
 
 ### LANGUAGES  
-* Russian - Native  
-* English - Intermediate/Upper-intermediate  
-* Polish - Elementary  
+Russian - Native  
+English - Intermediate/Upper-intermediate (according to EFSET)  
+![Test result](/img/result.png)  
+Polish - Elementary  
 
 ---
 
@@ -61,3 +62,17 @@ Simple React project done in a course. (<https://github.com/imperator1440/monste
 My graduation project (/w PHP, Laravel, MySQL and Bootstrap). (<https://github.com/imperator1440/php_test_project>)  
 **Frontend tasks**  
 Different frontend development tasks. In readme you can find link to Figma with task. (<https://github.com/imperator1440/front-end-tasks>)  
+
+---
+
+### CODE EXAMPLE  
+**Task from CODEWARS:** *Given a string made of digits [0-9], return a string where each digit is repeated a number of times equals to its value.*  
+`const explode = (s) => {`   
+`  let answer = "";` 
+`  for (letter  of s) {`  
+`    for (i = 0; i < Number(letter); i++) {`  
+`        answer+=letter;`  
+`    }`  
+`  }`  
+`  return answer;`  
+`}`  
