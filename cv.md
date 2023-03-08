@@ -1,23 +1,23 @@
 # Arseny Shcherbinsky
-## Web Developer, Software Engineer
+### Web Developer, Software Engineer
 
 ---
 
-## CONTACT INFORMATION:
+### CONTACT INFORMATION:
 **Phone:** +375 29 608 49 36  
 **Email:** <imperator1440@gmail.com>  
 **[Linkedin](https://www.linkedin.com/in/arseny-shcherbinsky-a066211b3)**
 
 --- 
 
-## LOCATION  
+### LOCATION  
 Minsk, Belarus  
 Warsaw, Poland  
 **Open to relocate**
 
 ---
 
-## SKILS  
+### SKILS  
 **Programming languages:** JavaScript, TypeScript, PHP, C/C++, Python, SQL, HTML, CSS  
 **Frontend technologies:** React, JQuery, Bootstrap, Styled Components, PWA  
 **Other technologies:** Redux, GraphQL  
@@ -29,14 +29,14 @@ Warsaw, Poland
 
 ---
 
-## LANGUAGES  
+### LANGUAGES  
 * Russian - Native  
 * English - Intermediate/Upper-intermediate  
 * Polish - Elementary  
 
 ---
 
-## EDUCATION AND COURSES  
+### EDUCATION AND COURSES  
 **Belarusian State University of Informatics and Radioelectronics**  
 Computer systems and networks.  
 2018/2022  
@@ -52,7 +52,7 @@ Data science. Math and python for data analysis.
 
 ---
 
-## MY LATEST PROJECTS  
+### MY LATEST PROJECTS  
 **Clothing store**  
 Complete eCommerce project (/w React, Redux, TypeScript). (<https://github.com/imperator1440/clothing-store>)  
 **Monster Rolodex**  
